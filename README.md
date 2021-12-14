@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mandipadk
-- 👀 I’m interested in Coding nad web design. I do video and garpahics editiong too. :)
-- 🌱 I’m currently learning python and css for web desgin.
+- 👀 I’m interested in Coding and web design. I do video and garpahics editing too. :)
+- 🌱 I’m currently learning python and css for web design.
 - 💞️ I’m looking to collaborate on an app project. Hit me up if interested. :))
 - 📫 How to reach me >> mandipadhikari105@gmail.com
 
