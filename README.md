@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @mandipadk
-- 👀 I’m interested in Coding and web design. I do video and garpahics editing too. :)
-- 🌱 I’m currently learning python and css for web design.
-- 💞️ I’m looking to collaborate on an app project. Hit me up if interested. :))
-- 📫 How to reach me >> mandipadhikari105@gmail.com
+- 👋 Hi, I’m @mandipadk; find me anywhere with the same handle. Also, message if you're a JS developer and want to collaborate on an awesome project.
+
 
 <!---
 mandipadk/mandipadk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
