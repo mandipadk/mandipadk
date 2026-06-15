@@ -11,7 +11,7 @@ I am a Computer Science undergraduate at The University of Southern Mississippi,
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mandipadk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats-seven-ecru.vercel.app?user=mandipadk&theme=dark)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mandipadk&theme=dark&border_radius=3.5&mode=weekly)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mandipadk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
